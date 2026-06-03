@@ -1,3 +1,16 @@
+本项目为复刻勇哥小钢炮脚本，复刻时间 2026.06.04
+
+推荐 vps 
+TierHive‌ 一个主打低价按小时付费的‌NAT VPS提供商‌,支持按小时付费，新用户注册赠送0.1代币(需要住宅ip注册才有赠送），选择最低$0.10/月的配置可免费使用1个月。
+官网链接  https://tierhive.com/r/DEE62FE77E6B
+
+<a href="https://tierhive.com/r/DEE62FE77E6B">Hosted on TierHive Hourly VPS</a>
+<a href="https://tierhive.com/r/DEE62FE77E6B">Checkout TierHive for your Hourly VPS</a>
+
+
+
+
+
 ## Argosbx一键无交互小钢炮脚本💣：极简 + 轻量 + 快速
 
 ---------------------------------------
