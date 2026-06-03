@@ -4,17 +4,30 @@
 TierHive‌ 一个主打低价按小时付费的‌NAT VPS提供商‌,支持按小时付费，新用户注册赠送0.1代币(需要住宅ip注册才有赠送），选择最低$0.10/月的配置可免费使用1个月。
 官网链接  https://tierhive.com/r/DEE62FE77E6B
 
-  <a href="https://tierhive.com/r/DEE62FE77E6B">Hosted on TierHive Hourly VPS</a>
+-----------------------------------------------
 
-  [Hosted on TierHive Hourly VPS](https://tierhive.com/r/DEE62FE77E6B)
+bash 工具安装代码
 
-  [url=https://tierhive.com/r/DEE62FE77E6B]Hosted on TierHive Hourly VPS[/url]
+Alpinelinux系统   
+apk add bash
 
-<a href="https://tierhive.com/r/DEE62FE77E6B">Checkout TierHive for your Hourly VPS</a>
+Ubuntu  Debian 系统  
+sudo apt update
+sudo apt install bash
 
+CentOS Fedora 系统
+sudo yum install bash  # CentOS 或 RHEL 7
+sudo dnf install bash  # Fedora 或 RHEL 8 及以后版本
 
+Arch Linux 系统
+sudo pacman install bash
 
+其它系统和不懂得地方问ai。
 
+root 权限获取代码
+sudo-i
+
+（注：本项目好像不需要root权限）
 
 ## Argosbx一键无交互小钢炮脚本💣：极简 + 轻量 + 快速
 
