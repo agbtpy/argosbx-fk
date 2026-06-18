@@ -1,6 +1,6 @@
 本项目为复刻勇哥小钢炮脚本，复刻时间 2026.06.04
 ----------------------------------------------
- [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+ [![Powered by DartNode] (https://dartnode.com/branding/DN-Open-Source-sm.png)] (https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 -----------------------------------------------
 
 bash 工具安装代码
