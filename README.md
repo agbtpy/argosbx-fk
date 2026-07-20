@@ -6,7 +6,7 @@
 bash 工具安装代码
 
 Alpinelinux系统   
-apk add bash
+apk update && apk add bash curl wget ca-certificates tar unzip zip git python3 build-base
 
 Ubuntu  Debian 系统  
 sudo apt update
